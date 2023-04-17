@@ -48,7 +48,7 @@ class LoadingButton : FrameLayout {
     }
 
     override fun setOnClickListener(l: OnClickListener?) {
-        button.setOnClickListener(l)
+           button.setOnClickListener(l)
     }
 
     public fun showProgress(enabled: Boolean) {
