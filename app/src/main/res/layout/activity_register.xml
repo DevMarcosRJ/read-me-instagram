@@ -10,8 +10,8 @@
 
     <fragment
         android:id="@+id/register_fragment"
-        tools:layout="@layout/fragment_register_welcome"
-        android:name="com.marcosmendes.instagram.register.view.RegisterWelcomeFragment"
+        tools:layout="@layout/fragment_register_photo"
+        android:name="com.marcosmendes.instagram.register.view.RegisterPhotoFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 
